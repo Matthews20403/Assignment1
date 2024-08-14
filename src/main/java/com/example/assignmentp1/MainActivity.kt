@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
                         "Hellen Keller" -> "Hellen Keller died at the age of 87."
                         "Harriet Tubman" -> "Harriet Tubman died at the age of 93."
                         "Tony Bennett" -> "Tony Bennett died at the age of 96."
-                        else -> "Please enter the age between the age of 20 and 100."
+                        else -> "Please enter the age between the age of 20 and 100 to validate."
                     }
                 }"
             } else {
